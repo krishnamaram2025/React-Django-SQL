@@ -15,7 +15,7 @@ https://github.com/krishnamaram2025/Gunicorn/
 ```
 * Step 3: Deploy Django App in Gunicorn server
 ```
-https://github.com/krishnamaram2025/Django
+https://github.com/krishnamaram2025/Django-2
 ```
 * Step 4: Nginx Server Set Up
 ```
